@@ -7,7 +7,7 @@ matches:
   - trigger: "u:"
     replace: "ü"
   - trigger: "s/"
-  - replace: "ß"
+    replace: "ß"
 
   # uppercase:
   - trigger: "A:"

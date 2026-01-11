@@ -2,7 +2,7 @@ name: german-accents
 title: German Accents
 description: A package to type German accents.
 homepage: https://github.com/akosmagyari/espanso-german-accents
-version: 1.0.0
+version: 1.0.1
 author: Magyari Ákos
 tags:
   - languages
